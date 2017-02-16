@@ -1,19 +1,19 @@
 
 @import url("https://fonts.googleapis.com/css?family=Raleway");
 .bg-john-00 {
-  background: url("../images/02-john/backgrounds/00.jpg"); }
+  background: url("../images/02-john/backgrounds/00.jpg");}
 
 .bg-john-01 {
-  background: url("../images/02-john/backgrounds/01.jpg"); }
+  background: url("../images/timeline.jpg"); }
 
 .bg-john-02 {
-  background: url("../images/02-john/backgrounds/02.jpg"); }
+  background-color: #333333;}
 
 .bg-john-03 {
   background: url("../images/02-john/backgrounds/03.jpg"); }
 
 .bg-john-04 {
-  background: url("../images/02-john/backgrounds/04.jpg"); }
+  background: url("../images/splash.jpg"); }
 
 .bg-john-05 {
   background: url("../images/02-john/backgrounds/05.jpg"); }
@@ -2476,7 +2476,7 @@ section.dark {
 section.light {
   color: #303030; }
   section.light p, section.light h2, section.light h3, section.light h4, section.light h5 {
-    color: #303030; }
+    color: white; }
   section.light a, section.light .infoblock a {
     color: #303030; }
     section.light a:hover, section.light .infoblock a:hover {
